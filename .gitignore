@@ -1,0 +1,8 @@
+.env
+
+# direnv
+.envrc
+.direnv
+
+# js
+node_modules/
